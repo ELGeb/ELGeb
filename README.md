@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELGeb
+- 👋 Hi, I’m @Giovanni
 - 👀 I’m interested in hardware and videogames
 - 🌱 I’m currently learning digital education
 - 💞️ I’m looking to collaborate on ...
